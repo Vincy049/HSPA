@@ -15,4 +15,6 @@ export class PropertyCardComponent {
         "Type" : "House",
         "Price" : 12000,
     }
+
+    //abc
 }
